@@ -6,7 +6,7 @@
     "email": "john.doe@example.com",
     "days_since_contact": 12,
     "status": "overdue",
-    "tags": ["college", "close friend"],
+    "tags": ["close friend"],
     "bio": "Met in university. Love hiking together.",
     "goal": 14,
     "next_due_date": "2025-07-20"
@@ -18,7 +18,7 @@
     "email": "sarah.williams@example.com",
     "days_since_contact": 5,
     "status": "ok",
-    "tags": ["work", "teammate"],
+    "tags": ["work"],
     "bio": "Colleague from previous job. Always shares great career advice.",
     "goal": 10,
     "next_due_date": "2025-07-25"
@@ -30,7 +30,7 @@
     "email": "ahmed.khan@example.com",
     "days_since_contact": 20,
     "status": "overdue",
-    "tags": ["gym", "travel"],
+    "tags": ["travel"],
     "bio": "Workout partner and travel buddy. Loves adventure trips.",
     "goal": 14,
     "next_due_date": "2025-07-15"
@@ -54,7 +54,7 @@
     "email": "michael.brown@example.com",
     "days_since_contact": 30,
     "status": "overdue",
-    "tags": ["school", "old friend"],
+    "tags": ["old friend"],
     "bio": "Childhood friend. Haven’t caught up in a while.",
     "goal": 15,
     "next_due_date": "2025-07-10"
@@ -78,7 +78,7 @@
     "email": "david.miller@example.com",
     "days_since_contact": 16,
     "status": "overdue",
-    "tags": ["startup", "mentor"],
+    "tags": ["mentor"],
     "bio": "Mentor from startup community. Gives practical advice.",
     "goal": 14,
     "next_due_date": "2025-07-18"
@@ -90,7 +90,7 @@
     "email": "olivia.garcia@example.com",
     "days_since_contact": 3,
     "status": "ok",
-    "tags": ["travel", "friend"],
+    "tags": ["friend"],
     "bio": "Met during a trip. Still keep in touch occasionally.",
     "goal": 10,
     "next_due_date": "2025-07-26"
@@ -102,7 +102,7 @@
     "email": "daniel.schmidt@example.com",
     "days_since_contact": 25,
     "status": "overdue",
-    "tags": ["local", "coffee buddy"],
+    "tags": ["coffee buddy"],
     "bio": "Local friend. We meet for coffee and tech talks.",
     "goal": 14,
     "next_due_date": "2025-07-14"
@@ -114,7 +114,7 @@
     "email": "sophia.lee@example.com",
     "days_since_contact": 1,
     "status": "ok",
-    "tags": ["design", "creative"],
+    "tags": ["creative"],
     "bio": "Designer friend. Loves discussing art and creativity.",
     "goal": 7,
     "next_due_date": "2025-07-30"
@@ -126,7 +126,7 @@
     "email": "lucas.martin@example.com",
     "days_since_contact": 18,
     "status": "overdue",
-    "tags": ["football", "club"],
+    "tags": ["football"],
     "bio": "Play football together on weekends.",
     "goal": 14,
     "next_due_date": "2025-07-17"
